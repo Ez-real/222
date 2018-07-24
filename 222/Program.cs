@@ -14,7 +14,7 @@ namespace _222
 
             Console.WriteLine(" ");
 
-
+            Console.WriteLine("tym");
 
 
 
