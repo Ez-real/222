@@ -10,7 +10,7 @@ namespace _222
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(" ");
            
 
 
